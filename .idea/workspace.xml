@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d92cd67-0a6b-465b-9b8d-6c969a7f07cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/InheritanceChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/InheritanceChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,7 @@
       <workItem from="1657833854568" duration="1081000" />
       <workItem from="1658346417818" duration="3048000" />
       <workItem from="1660066129175" duration="2034000" />
-      <workItem from="1673833624900" duration="3168000" />
+      <workItem from="1673833624900" duration="3592000" />
     </task>
     <servers />
   </component>
